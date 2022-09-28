@@ -139,7 +139,7 @@ const CustomerProfile = () => {
           />
         </div>
         <div className='mx-auto w-fit mt-6'>
-          <Button type='submit' login>
+          <Button type='submit'>
             create
           </Button>
         </div>

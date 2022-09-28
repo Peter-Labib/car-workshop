@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Button = ({ login, children, errors, ...atr }) => {
+const Button = ({ children, errors, ...atr }) => {
 
   return (
     <button
